@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Syncfusion.AspNet.Mvc4</id>
+    <version>18.1.0.45</version>
+    <title>Syncfusion jQuery based ASP.NET MVC UI controls</title>
+    <authors>Syncfusion Inc.</authors>
+    <owners>Syncfusion Inc.</owners>
+    <licenseUrl>https://www.syncfusion.com/nuget/license?utm_source=nuget&amp;utm_medium=listing</licenseUrl>
+    <projectUrl>https://www.syncfusion.com/?utm_source=nuget&amp;utm_medium=listing</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/syncfusion.aspnet.mvc4/18.1.0.45/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Syncfusion UI components for ASP.NET MVC (Essential JS 1) contain the runtime MVC #MVCVersion# assemblies for building line-of-business applications. They contain more than 70 HTML helpers, including popular controls such as data grid, chart, Gantt, diagram, spreadsheet, schedule, and pivot grid to build server-side dynamic websites based on Microsoft's ASP.NET MVC Framework.
+
+	Key features:
+	• Support for all the major browsers: IE8+, Microsoft Edge, Chrome 17+, Firefox 22+, Safari 5+, and Opera 12+.
+	• Support for globalization and localization.
+	• Seventeen built-in themes including Material, Office 365, Bootstrap, and High contrast themes.
+	• Built-in compliance with the WAI-ARIA specification, which ensures the components work properly in assistive technologies.
+	• User-interactive widget mode sustainable in a browser’s local storage, which helps to maintain the state for each component.
+	• Support for strongly-typed HTML helpers that use lambda expressions to refer to models.
+	• Seamless cooperation with jQuery validation to perform validation on form controls like numeric, masked text box, check box, RTE, and drop-down list.
+	• Support for RequireJS in all its components, which implements AMD specifications. So users can load the users-specified scripts and modules into a page.
+
+	Learn more: https://www.syncfusion.com/jquery/aspnet-mvc-ui-controls?utm_source=nuget&amp;utm_medium=listing
+
+	Documentation: https://help.syncfusion.com/aspnetmvc/?utm_source=nuget&amp;utm_medium=listing
+
+	Support:
+	Incident: https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=nuget&amp;utm_medium=listing
+	Forum: https://www.syncfusion.com/forums/general?utm_source=nuget&amp;utm_medium=listing
+
+This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of Syncfusion's EULA (https://www.syncfusion.com/eula/es/?utm_source=nuget&amp;utm_medium=listing). To acquire a license, you can purchase one at https://www.syncfusion.com/sales/products?utm_source=nuget&amp;utm_medium=listing or start a free 30-day trial here (https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=nuget&amp;utm_medium=listing).
+
+© Copyright 2020 Syncfusion, Inc. All Rights Reserved. The Syncfusion Essential Studio license and copyright applies to this distribution.</description>
+    <summary />
+    <releaseNotes>https://help.syncfusion.com/aspnetmvc/release-notes/v18.1.0.45?utm_source=nuget&amp;utm_medium=listing</releaseNotes>
+    <copyright>Copyright 2001 - 2020 Syncfusion Inc.</copyright>
+    <tags>syncfusion ej1 mvc aspnet-mvc aspnet extension syncfusion.aspnetmvc aspnetmvc htmlhelper razor view model unobstrusive .net asp.net c# vb.net desktop javascript jquery ui html5 css css3 bootstrap material responsive grid treegrid charts spreadsheet gantt schedule diagrams maps heatmap treemap gauge linear-gauge linear circular-gauge circular digital-gauge sparkline sunburst bullet-graph range-navigator barcode tagcloud kanban tooltip splitter dialog tile listview rte richtexteditor data-grid xlsheet colorpicker timepicker datepicker datetimepicker signature daterangepicker textbox numerictextbox maskedit autocomplete radial-slider slider spellcheck dropdownlist dropdowntree combo-box button split-botton dropdown-button uploadbox menu radial-menu ribbon file-explorer treeview rotator tab accordion listbox scrollbar scroller pager navigation-drawer progress-bar waiting-popup media-player context-menu datepickerfor numerictextboxfor maskeditfor dropdownlistfor checkboxfor radiobuttonfor timepickerfor datetimepickerfor rtefor</tags>
+    <dependencies>
+      <dependency id="Syncfusion.Web.Base40" version="18.1.0.45" />
+      <dependency id="Syncfusion.XlsIO.AspNet.Mvc4" version="18.1.0.45" />
+      <dependency id="Syncfusion.Pdf.AspNet.Mvc4" version="18.1.0.45" />
+      <dependency id="Syncfusion.DocIO.AspNet.Mvc4" version="18.1.0.45" />
+      <dependency id="Syncfusion.Presentation.AspNet.Mvc4" version="18.1.0.45" />
+      <dependency id="Syncfusion.Licensing" version="18.1.0.45" />
+    </dependencies>
+  </metadata>
+</package>
